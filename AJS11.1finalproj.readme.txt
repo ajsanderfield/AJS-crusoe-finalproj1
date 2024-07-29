@@ -1,0 +1,8 @@
+WEBPAGE NAME:  Ona Got Ice
+Just a base/intro page to the website
+jewelry webpage
+Went with a pink color scheme and showing off two pieces of jewelry 
+buttons do not, navigation does not work, will be implemented but this assignment called for a single page
+Space between about us and jewelry is for photo, i couldn't get it to work for the life of me
+menu is supposed to pop out and retract, not to that stage yet
+WEBPAGE NAME:  Ona Got Ice
